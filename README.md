@@ -13,8 +13,7 @@ Kara Knack
 In this project, I used if and else if statements to determine tax brackets. The user enters the taxable income and the operators (<=, >=, etc.)
 calulate which bracket they are in,
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://karaknack.github.io/lesson5_JavaScript2/ 
 
 ### Lessons Learned in the Assignment:
 1. 'else' is used when what the user enters doesn't apply to any of the above code.
